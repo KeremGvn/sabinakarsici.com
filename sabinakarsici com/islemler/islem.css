@@ -1,0 +1,42 @@
+.arka{
+    background-color: gray;
+    width: 85%;
+    height: 300px;
+    margin: auto;
+}
+/* .disserit{
+    height: 80px;
+    background-color: #aeaeae;
+} */
+.konteynır {
+    background-color: #aeaeae;
+    width: 100%; /* Container genişliği */
+    margin: auto; /* Sayfa ortasına hizalama */
+    background-color:#a9a9a9;
+    align-items: center;
+    display: flex; /* Flexbox kullanarak dikeye ortala */
+    height: 80px;
+  }
+.islemicerik{
+    margin: auto;
+    margin-top: 5%;
+    background-color: #a9a9a9;
+    width: 85%;
+    
+}
+.islemicerikyazi{
+    width: 98%;
+    margin: auto;
+}
+.yaziii{
+    font-size: 20px;
+    color: black;
+    padding: 2%;
+}
+.baslık{
+    color: rgb(180, 22, 22);
+}
+.islemyazi{
+    text-align: center;
+    
+}
